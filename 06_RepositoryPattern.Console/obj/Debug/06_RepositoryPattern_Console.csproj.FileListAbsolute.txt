@@ -1,0 +1,10 @@
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\obj\Debug\06_RepositoryPattern_Console.csprojAssemblyReference.cache
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\obj\Debug\06_RepositoryPattern_Console.csproj.CoreCompileInputs.cache
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\bin\Debug\06_RepositoryPattern.Console.exe.config
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\bin\Debug\06_RepositoryPattern.Console.exe
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\bin\Debug\06_RepositoryPattern.Console.pdb
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\obj\Debug\06_RepositoryPattern.Console.exe
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\obj\Debug\06_RepositoryPattern.Console.pdb
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\bin\Debug\06_RepositoryPattern_Repository.dll
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\bin\Debug\06_RepositoryPattern_Repository.pdb
+C:\Users\John Gates\Desktop\ElevenFiftyProjects\DotNet Projects\CSharpFundamentals\06_RepositoryPattern.Console\obj\Debug\06_RepositoryPattern_Console.csproj.CopyComplete
